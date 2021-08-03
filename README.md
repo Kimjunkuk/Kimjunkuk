@@ -1,6 +1,6 @@
 
 # 😄 Hello there!
-# I'm profesonal copy and paster.
+# I'm a profesonal copy and paster.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimjunkuk&show_icons=true&theme=radical)
 
